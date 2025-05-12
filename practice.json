@@ -1,0 +1,30 @@
+{
+    "tripName": "Girls Trip",
+    "traveler": {
+        "name": "Allison Krewson",
+        "contact": {
+            "email": "Me@me.com",
+            "phone": "555-555-5555"
+        }
+    },
+    "destinations": [ 
+        {
+        "location": "Nashville, TN.",
+        "arrivalDate": "2025-06-01",
+        "departureDate": "2025-06-03",
+        "activities": [
+            {"title": "spa", "time": "10:00 AM"},
+            {"title": "bar hopping", "time": "3:00 PM"}
+            ]
+        },    
+        {
+        "location": "Orlando, FL.",
+        "arrivalDate": "2025-06-04",
+        "departureDate": "2025-06-08",
+        "activities": [
+            {"title": "disney", "time": "1:00 PM"}, 
+            {"title": "dinner", "time": "7:30 PM"}
+        ]
+        }
+    ]      
+}
