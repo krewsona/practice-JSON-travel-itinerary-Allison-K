@@ -28,3 +28,60 @@
         }
     ]      
 }
+
+
+
+
+
+
+{
+    "tripName": "Girls Trip",
+    "traveler": {
+        "name": "Allison Krewson",
+        "contact": {
+            "email": "Me@me.com",
+            "phone": "555-555-5555"
+        }
+    },
+    "destinations": [ 
+        {
+        "location": "Nashville, TN.",
+        "arrivalDate": "2025-06-01",
+        "departureDate": "2025-06-03",
+        "transportation": {
+            "mode": "Flight",
+            "cost": 180.00
+        },
+        "activities": [
+            {"title": "spa", "time": "10:00 AM"},
+            {"title": "bar hopping", "time": "3:00 PM"}
+            ]
+        },    
+        {
+        "location": "Orlando, FL.",
+        "arrivalDate": "2025-06-04",
+        "departureDate": "2025-06-08",
+        "transportation": {
+            "mode": "Flight",
+            "cost": 75.00
+        },
+        "activities": [
+            {"title": "disney", "time": "1:00 PM"}, 
+            {"title": "dinner", "time": "7:30 PM"}
+        ]
+        },
+        {
+         "location": "Miami, FL.",
+        "arrivalDate": "2025-06-08",
+        "departureDate": "2025-06-12",
+        "transportation": {
+            "mode": "Rental car",
+            "cost": 110.00
+        },
+        "activities": [
+            {"title": "beach", "time": "10:00 AM"},
+            {"title": "clubbing", "time": "10:00 PM"}
+            ]   
+        }
+    ]      
+}
